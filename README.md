@@ -19,3 +19,14 @@
 	- Bold <strong></strong>
 	- Emphasis <em></em>
 
+### *Part 2: Structure*
+-Basic structure:
+	<!DOCTYPE html>
+	<html>
+	<head>
+		Meta information
+	</head>
+	<body>
+		Content
+	</body>
+	</html>
