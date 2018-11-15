@@ -3,7 +3,7 @@
 	- [Markdown Synatx](https://www.markdownguide.org/basic-syntax/)
 	- [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
-### Elements
+### *Part 1: Elements*
 - Elements: 
 	- e.g. <p>Test...</p>
 	- Beginnig tag: <p>
