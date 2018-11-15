@@ -1,2 +1,21 @@
-# udacity-html-syntax-01
-Udacity Front End Dev HTML Syntax Lesson 1
+# Udacity Front End Dev HTML Syntax Lesson 1
+- Resources:
+	- [Markdown Synatx](https://www.markdownguide.org/basic-syntax/)
+	- [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+
+### Elements
+- Elements: 
+	- e.g. <p>Test...</p>
+	- Beginnig tag: <p>
+	- Content: Test...
+	- End tag: </p> 
+
+- HTML Tree (Structure)
+	- Parent
+	- Child
+	- Siblings
+
+- [MDN Research](https://developer.mozilla.org/en-US/docs/Web/HTML/Element):
+	- Bold <strong></strong>
+	- Emphasis <em></em>
+
