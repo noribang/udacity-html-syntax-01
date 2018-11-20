@@ -15,4 +15,13 @@
 
 ### *3. Style the Font*
 - Resources:
-	- [MDN CSS-Border](https://developer.mozilla.org/en-US/docs/Web/CSS/border)
+	- ["web-safe" fonts](https://www.cssfontstack.com/)
+	- [Google Fonts](https://fonts.google.com/)
+
+- CSS Properties: 
+    - e.g.
+       - color: #8001ff;
+       - text-transform: uppercase;
+       - text-decoration: underline;
+       - font-family: Helvetica, Arial, sans-serif;
+       - font-size: 60px;
