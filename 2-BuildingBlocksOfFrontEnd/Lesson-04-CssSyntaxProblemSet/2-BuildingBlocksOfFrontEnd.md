@@ -25,3 +25,8 @@
        - text-decoration: underline;
        - font-family: Helvetica, Arial, sans-serif;
        - font-size: 60px;
+
+### *5. Using Attributes*
+- Resources:
+    - [MDN's Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Selectors)
+    - [How CSS Selectors Work](https://css-tricks.com/how-css-selectors-work/)
