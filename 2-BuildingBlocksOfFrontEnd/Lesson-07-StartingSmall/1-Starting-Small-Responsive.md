@@ -63,10 +63,29 @@
 - Resources:
 	- [xxx](https://xxx)
 
-- Set Viewport: 
+- Set Width w/ Relative Units: 
 	- img, embed, 
 	  object, video {
 	  	max-width: 100%;
 
 	  }
+
+### *12-13. Tap Target Sizes*
+- Resources:
+	- [big list of CSS properties.](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#Keyword_index)
+
+- Set Width and Height to 48px: 
+	- nav a, button {
+			min-width: 48px;
+			min-height: 48px;
+		}
+
+### *14. Tap Target Sizes*
+- Resources:
+	- [xxx](https://xxx)
+
+- Start with smallest device (This prioritizes performance).
+	- Phone
+	- Tablet
+	- Desktop
 
