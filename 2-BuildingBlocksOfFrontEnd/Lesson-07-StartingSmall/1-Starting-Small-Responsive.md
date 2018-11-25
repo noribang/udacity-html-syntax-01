@@ -89,3 +89,15 @@
 	- Tablet
 	- Desktop
 
+### *16. Project Solution*
+- Resources:
+	- [relative unit](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Values_and_units#Numeric_values)
+	- [inherit KEYWORD](https://developer.mozilla.org/en-US/docs/Web/CSS/inherit)
+	- [Flexbox example](https://storage.googleapis.com/supplemental_media/udacityu/3520169345/pattern-mostly-fluid-quiz-blankcss.html)
+
+
+- Solutions:
+	- <meta name="viewport" content="width=device-width, initial-scale=1">
+	- width: 100%;
+	- padding: 1.5em inherit; (Tap targets for <a> elements)
+	- padding: 1.5em; (Tap targets for <a> elements)
