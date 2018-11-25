@@ -45,3 +45,18 @@
 	- max-width
 	- e.g. @media and screen (max-width: 500px) {}
 		- 500px or less
+	- min-width and max-width
+	- e.g. @media screen and (min-width: 401px) and (max-width: 599px) {
+        body {background-color: green;}
+      }
+
+
+### *7. Breakpoints Media queries*
+- Resources:
+	- [xxx](https://xxx)
+
+- Breakpoints: 
+	- Layout changes at these points.
+
+
+
