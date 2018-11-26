@@ -79,3 +79,9 @@
 ### *15. Grid*
 - Resources:
 	- [Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout)
+
+### *16. Flexbox*
+- Resources:
+	- [www.w3schools.com](https://www.w3schools.com/css/css3_flexbox.asp)
+	- [MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
+
