@@ -3,6 +3,9 @@
 	- [Markdown Synatx](https://www.markdownguide.org/basic-syntax/)
 	- [MDN elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
     - [MDN Quirks_Mode_and_Standards_Mode](https://developer.mozilla.org/en-US/docs/Web/HTML/Quirks_Mode_and_Standards_Mode)
+    - [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
+    - [Responsive Images](https://www.udacity.com/course/responsive-images--ud882)
+    - [MDN Semantic HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
 
 ### *Part 1: Elements*
 - Elements: 
