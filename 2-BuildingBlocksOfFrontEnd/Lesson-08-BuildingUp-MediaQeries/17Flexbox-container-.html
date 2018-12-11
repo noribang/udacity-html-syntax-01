@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- Added meta viewport -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>17. Flexbox container</title>
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500" rel="stylesheet" type="text/css">
+    <!-- <link rel="stylesheet" type="text/css" href="main-fixed-112418.css"> -->
+    <style type="text/css">
+      .container {
+        width: 100%;
+        /*Flexbox*/
+        display: flex;
+        flex-wrap: wrap;
+      }
+      .box {
+        height: 100px;
+        /*text-align: center;*/
+        width: 150px;
+        border: 1px solid #000;
+      }
+
+      .light_blue {
+        /*order: 5;*/
+        background-color: lightblue;
+        /*width: 20%;*/
+
+      }
+      .orange {
+        /*order: 6;*/
+        background-color: orange;
+        /*width: 60%;*/
+      }
+      .green {
+        /*order: 7;*/
+        background-color: green;
+        /*width: 20%;*/
+      }
+
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="box orange"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce nunc sapien, tempus eu tortor rutrum, luctus semper massa. Aliquam molestie mauris nec nisi semper, nec convallis mauris mollis.</p></div>
+      <div class="box light_blue"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce nunc sapien, tempus eu tortor rutrum, luctus semper massa. Aliquam molestie mauris nec nisi semper, nec convallis mauris mollis.</p></div>
+      <div class="box green"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce nunc sapien, tempus eu tortor rutrum, luctus semper massa. Aliquam molestie mauris nec nisi semper, nec convallis mauris mollis.</p></div>
+
+      <div class="container">
+      <div class="box orange"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce nunc sapien, tempus eu tortor rutrum, luctus semper massa. Aliquam molestie mauris nec nisi semper, nec convallis mauris mollis.</p></div>
+      <div class="box light_blue"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce nunc sapien, tempus eu tortor rutrum, luctus semper massa. Aliquam molestie mauris nec nisi semper, nec convallis mauris mollis.</p></div>
+      <div class="box green"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce nunc sapien, tempus eu tortor rutrum, luctus semper massa. Aliquam molestie mauris nec nisi semper, nec convallis mauris mollis.</p></div>
+    </div>
+    </div>
+  </body>
+</html>

@@ -1,4 +1,4 @@
-# Lesson 1: CSS Syntax Problem Set
+# Lesson 1: Syntax
 - Resources:
 	- [MDN CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 	- [CSS Tricks](https://css-tricks.com/almanac/)
