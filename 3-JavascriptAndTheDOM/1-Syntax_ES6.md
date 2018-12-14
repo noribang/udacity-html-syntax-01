@@ -2,16 +2,17 @@
 - Resources:
 	- [MDN CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 	- [CSS Tricks](https://css-tricks.com/almanac/)
+	- [Intro Javascript](https://classroom.udacity.com/courses/ud803)
 
 - ES6: 
 	- let and const
-	- template literals
+	- template literals(i.e. `{}`)
 	- destructuring
 	- object literal shorthand
 	- iteration
 	- for...of loop
-	- rest parameter
-	- spread operator
+	- spread operator (i.e. ...)
+	- rest parameter (i.e. ...)
 
 ### *2. Let and Const*
 - Resources:
