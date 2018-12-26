@@ -29,10 +29,11 @@
         <!DOCTYPE html>
         <html>
             <head>
-            	Meta information
+                <meta charset="utf-8">
+                <title>HTML Structure</title>
             </head>
             <body>
-            	Content
+                <h1>This is a heading.</h1>
             </body>
         </html>
         ```

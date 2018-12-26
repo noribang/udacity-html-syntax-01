@@ -1,0 +1,49 @@
+* {
+    /*box-sizing: border-box;*/
+    font-family: Roboto, sans-serif;
+}
+header, nav, footer,
+section, div {
+    /* Will include padding & border of element's in total width & height. */
+    box-sizing: border-box;
+}
+.container {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.header-logo {
+    height: 4em;
+}
+.header_icon {
+    width: 50%;
+}
+.header_text {
+    width: 50%;
+}
+hr {
+    width: 100%;
+}
+ul {
+    /* Removes li bullets. */
+    list-style: none;
+}
+.nav-ul {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+li {
+    display: inline-block;
+    width: 24%;
+    text-align: center;
+    line-height: 24px;
+    padding: 1px;
+    text-transform: uppercase;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
