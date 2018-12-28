@@ -1,0 +1,84 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+.banner {
+	background: url("../images/seoul01.jpg");
+	width: 100%;
+	background-size: cover;
+}
+.top-bar {
+	background-color: #000;
+	/* Vendor prefixes*/
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	width: 100%;
+	height: auto;
+}
+.logo {
+	color: #fff;
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	-ms-flex: 1;
+	flex: 1;
+	font-size: 40px;
+	padding: 18px;
+	text-transform: uppercase;
+}
+.menu {
+	-webkit-flex: 3px;
+	-moz-flex: 3px;
+	-ms-flex: 3px;
+	-o-flex: 3px;
+	-webkit-box-flex: 3px;
+	flex: 3px;
+}
+.menu ul {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	list-style: none;
+	margin-top: 30px;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-flow: row wrap;
+	-ms-flex-flow: row wrap;
+	flex-flow: row wrap;
+}
+.menu ul li {
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	-ms-flex: 1;
+	flex: 1;
+	text-align: center;
+}
+.menu ul li a {
+	color: #fff;
+	font-size: 20px;
+	text-decoration: none;
+}
+/* banner */
+.banner-text {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	padding: 15% 0;
+}
+.banner-text-items {
+	color: #fff;
+	margin: auto;
+	text-align: center;
+	width: 50%;
+}
+.banner-text-items h2 {
+
+}
+.banner-text-items p {
+	
+}
+
+
